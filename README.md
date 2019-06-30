@@ -49,3 +49,19 @@ This branch tracking is set up for you automatically when you clone a repository
 git pull origin master --allow-unrelated-histories
 
 
+加入 Storybook:
+npx -p @storybook/cli getstorybook
+
+# 运行 测试引擎(Jest):
+yarn test
+
+# 启动 storybook 在端口:9009 :
+yarn run storybook
+
+# 启动 前端 页面 在端口:3000:
+yarn start
+
+
+
+
+
