@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## react-boilerplate-ssr
 
 This is a react ssr demo written by typescript. It base on react16.x and webpack4.x
@@ -27,3 +28,8 @@ Builds the app for production.
 ### `npm run start`
 
 Starts the server for production.
+=======
+# react-boilerplate-ssr
+
+here is start 
+>>>>>>> c002f99ad0b58b03e0a47fa13bb6be8afa18f34d

@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "react-ssr",
   "version": "1.0.0",
   "description": "A react ssr demo",
@@ -69,4 +70,14 @@
     "webpack-merge": "^4.1.4",
     "webpack-node-externals": "^1.7.2"
   }
+=======
+  "name": "react-boilerplate-ssr",
+  "version": " 0.0.1",
+  "description": "New Component Library",
+  "main": "index.js",
+  "repository": "https://github.com/gadflying/react-boilerplate-ssr.git",
+  "author": "Joanna Chen <df>",
+  "license": "MIT",
+  "private": false
+>>>>>>> c002f99ad0b58b03e0a47fa13bb6be8afa18f34d
 }
